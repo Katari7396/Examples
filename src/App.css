@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(233, 164, 74);
+}
+button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+button:disabled {
+  background-color: lightgray;
+  cursor: pointer;
+}
+p {
+  font-size: 25px;
+}
